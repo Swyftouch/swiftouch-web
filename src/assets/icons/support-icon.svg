@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43.082" height="43.081" viewBox="0 0 43.082 43.081">
+  <g id="Group_98" data-name="Group 98" transform="translate(-1203.918 -17)">
+    <circle id="Ellipse_61" data-name="Ellipse 61" cx="14.5" cy="14.5" r="14.5" transform="translate(1210.918 24)" fill="none" stroke="#fff" stroke-width="11.4"/>
+    <g id="Group_97" data-name="Group 97" transform="translate(1206.254 19.335)">
+      <path id="Subtraction_3" data-name="Subtraction 3" d="M19.207,38.409A19.112,19.112,0,0,1,8.834,35.376L16.5,27.716a8.956,8.956,0,0,0,5.438.016l7.645,7.645a19.1,19.1,0,0,1-10.372,3.033ZM35.38,29.576h0L27.755,21.95a8.957,8.957,0,0,0,0-5.489l7.623-7.629a19.248,19.248,0,0,1,0,20.743Zm-32.347,0h0a19.249,19.249,0,0,1,0-20.743l7.678,7.678a8.965,8.965,0,0,0,0,5.387L3.035,29.575ZM16.5,10.691h0L8.829,3.033a19.248,19.248,0,0,1,20.744,0l-7.645,7.645a8.954,8.954,0,0,0-5.437.016Z" transform="translate(38.409 0) rotate(90)" fill="#ff4c42"/>
+    </g>
+    <g id="Ellipse_44" data-name="Ellipse 44" transform="translate(1226.881 55.814) rotate(90)" fill="none" stroke="#ff4c42" stroke-width="1.1">
+      <ellipse cx="2.133" cy="1.778" rx="2.133" ry="1.778" stroke="none"/>
+      <ellipse cx="2.133" cy="1.778" rx="1.583" ry="1.228" fill="none"/>
+    </g>
+    <g id="Ellipse_45" data-name="Ellipse 45" transform="translate(1226.881 17) rotate(90)" fill="none" stroke="#ff4c42" stroke-width="1.1">
+      <ellipse cx="2.133" cy="1.778" rx="2.133" ry="1.778" stroke="none"/>
+      <ellipse cx="2.133" cy="1.778" rx="1.583" ry="1.228" fill="none"/>
+    </g>
+    <g id="Ellipse_46" data-name="Ellipse 46" transform="translate(1247 40.319) rotate(180)" fill="none" stroke="#ff4c42" stroke-width="1.1">
+      <ellipse cx="2.133" cy="1.778" rx="2.133" ry="1.778" stroke="none"/>
+      <ellipse cx="2.133" cy="1.778" rx="1.583" ry="1.228" fill="none"/>
+    </g>
+    <g id="Ellipse_47" data-name="Ellipse 47" transform="translate(1208.185 40.319) rotate(180)" fill="none" stroke="#ff4c42" stroke-width="1.1">
+      <ellipse cx="2.133" cy="1.778" rx="2.133" ry="1.778" stroke="none"/>
+      <ellipse cx="2.133" cy="1.778" rx="1.583" ry="1.228" fill="none"/>
+    </g>
+  </g>
+</svg>
